@@ -1,4 +1,4 @@
-# PowerBI---Projects
+# PowerBI---Project
 
 This repository contains some Power BI exercises I have completed.
 The study material is based on:
